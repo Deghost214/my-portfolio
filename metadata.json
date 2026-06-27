@@ -1,0 +1,8 @@
+{
+  "name": "Harsh Vardhan Tiwari Portfolio",
+  "description": "Interactive and ATS-optimized portfolio website for Harsh Vardhan Tiwari, featuring interactive ML project simulators, professional milestones, and an AI Twin Chatbot assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
